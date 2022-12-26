@@ -9,7 +9,7 @@ public class Te04SwitchCase {
         char charValue = s.next().charAt(0);
         switch(Character.toUpperCase(charValue)){
             case 'A':
-                System.out.println("A is able");
+                System.out.println("A is able" );
                 break;
             case 'B':
                 System.out.println("B is baler");
